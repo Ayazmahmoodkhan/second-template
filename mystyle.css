@@ -1,0 +1,38 @@
+body {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+   }
+   .container{
+       color: red;
+       text-align: center;
+       font-weight: bold;
+   }
+   .container-1{
+       margin-left: 20%;
+       margin-top: 3%;
+   }
+   a{
+       color: blue;
+   }
+   #nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: auto;
+}
+h1{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.container1{
+    margin-top: 200px;
+}
+.footer{
+    margin-top: 300px;
+    
+}
+/* a{
+    margin-left: 40%;
+} *
